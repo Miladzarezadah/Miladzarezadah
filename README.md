@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi there, I'm Milad!  
 
-<!--
-**Miladzarezadah/miladzarezadah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Front-End Developer** specializing in **Vue.js**, **Quasar**, and building interactive, user-friendly web applications.  
+🌟 Creativity, responsibility, and hard work are the values I bring to every project.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Tools:
+- **Languages:** HTML, CSS, JavaScript
+- **Frameworks:** Vue.js, Quasar
+- **Tools:** Git, VS Code, Docker  
+
+---
+
+### 🌱 Currently Learning:
+- **React** & **Node.js** to expand my full-stack knowledge.  
+
+---
+
+### 📫 How to reach me:
+- 📧 Email: miladzarezadah840@gmail.com
+- 💼 [LinkedIn](linkedin.com/in/miladzarezadah)
